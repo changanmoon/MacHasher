@@ -114,7 +114,7 @@
       }
     },
     "Check for updates..." : {
-      "comment" : "Menu item.",
+      "comment" : "Menu item. (Will be implemented in the future)",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
@@ -289,6 +289,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "檔案："
+          }
+        }
+      }
+    },
+    "MacHasher Help" : {
+      "comment" : "Menu item.",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MacHasher 帮助"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MacHasher 輔助說明"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MacHasher 輔助說明"
           }
         }
       }
@@ -521,7 +544,7 @@
       }
     },
     "View source code on GitHub" : {
-      "comment" : "Button",
+      "comment" : "Button\nMenu item.",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
